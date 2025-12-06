@@ -73,7 +73,10 @@ namespace SpaCitas_del_este.Forms
                     TerapeutaID = Convert.ToInt32(cmbTerapeuta.SelectedValue),
                     Duracion = duracion,
                     Estado = CitaHelper.CalcularEstado(dtpFecha.Value, dtpHora.Value, duracion)
-                };
+                    
+
+
+            };
 
                 _repo.Add(c);
                 Helpers.ShowMessage("Cita agregada correctamente");

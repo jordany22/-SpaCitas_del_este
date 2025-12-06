@@ -88,6 +88,7 @@
             // txtID
             // 
             this.txtID.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.txtID.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.txtID.Location = new System.Drawing.Point(25, 31);
             this.txtID.Margin = new System.Windows.Forms.Padding(2);
             this.txtID.Name = "txtID";
@@ -119,6 +120,7 @@
             // 
             // txtTelefono
             // 
+            this.txtTelefono.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.txtTelefono.Location = new System.Drawing.Point(164, 31);
             this.txtTelefono.Margin = new System.Windows.Forms.Padding(2);
             this.txtTelefono.Name = "txtTelefono";
@@ -127,6 +129,7 @@
             // 
             // txtCorreoEletronico
             // 
+            this.txtCorreoEletronico.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.txtCorreoEletronico.Location = new System.Drawing.Point(25, 128);
             this.txtCorreoEletronico.Margin = new System.Windows.Forms.Padding(2);
             this.txtCorreoEletronico.Name = "txtCorreoEletronico";
@@ -135,6 +138,7 @@
             // 
             // txtNombreCompleto
             // 
+            this.txtNombreCompleto.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.txtNombreCompleto.Location = new System.Drawing.Point(25, 76);
             this.txtNombreCompleto.Margin = new System.Windows.Forms.Padding(2);
             this.txtNombreCompleto.Name = "txtNombreCompleto";
@@ -300,6 +304,7 @@
             // 
             // txtCorreoelectronicoActualizar
             // 
+            this.txtCorreoelectronicoActualizar.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.txtCorreoelectronicoActualizar.Location = new System.Drawing.Point(27, 126);
             this.txtCorreoelectronicoActualizar.Margin = new System.Windows.Forms.Padding(2);
             this.txtCorreoelectronicoActualizar.Name = "txtCorreoelectronicoActualizar";
@@ -308,6 +313,7 @@
             // 
             // txtTelefonoActualizar
             // 
+            this.txtTelefonoActualizar.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.txtTelefonoActualizar.Location = new System.Drawing.Point(170, 31);
             this.txtTelefonoActualizar.Margin = new System.Windows.Forms.Padding(2);
             this.txtTelefonoActualizar.Name = "txtTelefonoActualizar";
@@ -316,6 +322,7 @@
             // 
             // txtNombreCompletoActualizar
             // 
+            this.txtNombreCompletoActualizar.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.txtNombreCompletoActualizar.Location = new System.Drawing.Point(27, 78);
             this.txtNombreCompletoActualizar.Margin = new System.Windows.Forms.Padding(2);
             this.txtNombreCompletoActualizar.Name = "txtNombreCompletoActualizar";
@@ -325,6 +332,7 @@
             // textIDActualizar
             // 
             this.textIDActualizar.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.textIDActualizar.ForeColor = System.Drawing.SystemColors.MenuBar;
             this.textIDActualizar.Location = new System.Drawing.Point(27, 29);
             this.textIDActualizar.Margin = new System.Windows.Forms.Padding(2);
             this.textIDActualizar.Name = "textIDActualizar";
